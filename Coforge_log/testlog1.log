@@ -1,0 +1,49 @@
+2024-07-20 15:45:18,782 [main] INFO NOP Comm Application - ============info==============
+2024-07-20 15:45:18,787 [main] WARN NOP Comm Application - ============warn==============
+2024-07-20 15:45:18,787 [main] ERROR NOP Comm Application - ============error==============
+2024-07-20 15:45:18,788 [main] INFO NOP Comm Application - ============launching a chrome browser============
+2024-07-20 15:45:22,407 [main] INFO NOP Comm Application - launching an application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-07-20 15:45:28,707 [main] INFO NOP Comm Application - clear the email value.
+2024-07-20 15:45:28,777 [main] INFO NOP Comm Application - enter email value: admin@yourstore.com
+2024-07-20 15:45:28,851 [main] INFO NOP Comm Application - clear the email value.
+2024-07-20 15:45:28,898 [main] INFO NOP Comm Application - enter password value: admin
+2024-07-20 15:45:28,981 [main] INFO NOP Comm Application - click on rem checkbox
+2024-07-20 15:45:29,087 [main] INFO NOP Comm Application - click on login button
+2024-07-20 15:45:33,501 [main] INFO NOP Comm Application - application title after login: Dashboard / nopCommerce administration
+2024-07-20 15:45:33,511 [main] INFO NOP Comm Application - validation, is Dashbard value present into title : true
+2024-07-20 15:45:33,524 [main] INFO NOP Comm Application - click on logout button
+2024-07-20 15:45:37,877 [main] INFO NOP Comm Application - application title after logout: Your store. Login
+2024-07-20 15:45:42,884 [main] INFO NOP Comm Application - ============closing an application================
+2024-07-20 16:37:30,572 [main] INFO NOP Comm Application - ============info==============
+2024-07-20 16:37:30,579 [main] WARN NOP Comm Application - ============warn==============
+2024-07-20 16:37:30,579 [main] ERROR NOP Comm Application - ============error==============
+2024-07-20 16:37:30,579 [main] INFO NOP Comm Application - ============launching a chrome browser============
+2024-07-20 16:37:34,536 [main] INFO NOP Comm Application - launching an application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-07-20 16:37:34,536 [main] INFO NOP Comm Application - =========================log details================================
+2024-07-20 16:37:34,536 [main] INFO NOP Comm Application - accessing value from config file: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-07-20 16:37:34,537 [main] INFO NOP Comm Application - accessing value from config file: admin@yourstore.com
+2024-07-20 16:37:34,538 [main] INFO NOP Comm Application - accessing value from config file: admin
+2024-07-20 16:37:34,538 [main] INFO NOP Comm Application - =========================log details================================
+2024-07-20 16:37:40,918 [main] INFO NOP Comm Application - clear the email value.
+2024-07-20 16:37:40,986 [main] INFO NOP Comm Application - enter email value: admin@yourstore.com
+2024-07-20 16:37:41,051 [main] INFO NOP Comm Application - clear the email value.
+2024-07-20 16:37:41,095 [main] INFO NOP Comm Application - enter password value: admin
+2024-07-20 16:37:41,154 [main] INFO NOP Comm Application - click on rem checkbox
+2024-07-20 16:37:41,209 [main] INFO NOP Comm Application - click on login button
+2024-07-20 16:37:45,908 [main] INFO NOP Comm Application - application title after login: Dashboard / nopCommerce administration
+2024-07-20 16:37:45,917 [main] INFO NOP Comm Application - validation, is Dashbard value present into title : true
+2024-07-20 16:37:45,930 [main] INFO NOP Comm Application - click on logout button
+2024-07-20 16:37:50,305 [main] INFO NOP Comm Application - application title after logout: Your store. Login
+2024-07-20 16:37:55,323 [main] INFO NOP Comm Application - ============closing an application================
+2024-08-31 10:55:14,220 [main] INFO NOP Comm Application - ============info==============
+2024-08-31 10:55:14,224 [main] WARN NOP Comm Application - ============warn==============
+2024-08-31 10:55:14,224 [main] ERROR NOP Comm Application - ============error==============
+2024-08-31 10:55:14,226 [main] INFO NOP Comm Application - ============launching a chrome browser============
+2024-08-31 10:55:22,597 [main] INFO NOP Comm Application - launching an application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-08-31 10:55:22,597 [main] INFO NOP Comm Application - =========================log details================================
+2024-08-31 10:55:22,597 [main] INFO NOP Comm Application - accessing value from config file: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2024-08-31 10:55:22,597 [main] INFO NOP Comm Application - accessing value from config file: admin@yourstore.com
+2024-08-31 10:55:22,597 [main] INFO NOP Comm Application - accessing value from config file: admin
+2024-08-31 10:55:22,598 [main] INFO NOP Comm Application - =========================log details================================
+2024-08-31 10:55:27,986 [main] INFO NOP Comm Application - clear the email value.
+2024-08-31 10:55:33,033 [main] INFO NOP Comm Application - ============closing an application================
